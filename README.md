@@ -5,3 +5,6 @@ The goal of this is to build the game pong from start to finish while also getti
 - Fundamentals of using C#
 - Fundamentals with working inside the Unity Engine.
 - Fundamentals with creating and using prefabs
+
+# what needs fixing
+- Fix the score board to reset the ball and add points to whomever scored.
