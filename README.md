@@ -1,5 +1,5 @@
 # Pong_Exercise
-The goal of this is to build the game pong from start to finish while also getting familiar working in C# and the unity engine.
+The goal of this is to build the game pong from start to finish while also getting familiar working in C# and the unity engine. This project was also made durring my time at the art institute of seattle.
 
 ## Skills Aquired/Learned
 - Fundamentals of using C#
